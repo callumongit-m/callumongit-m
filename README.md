@@ -1,6 +1,6 @@
 # Hi, I'm Callum 👋 
 
-###  Full-Stack Engineer | AI & Data Systems
+### Full-Stack Engineer | AI & Data Systems
 I build scalable systems that turn raw data into intelligent actions. Currently bridging the gap between robust backend architecture and modern AI implementation.
 
 ---
@@ -21,11 +21,19 @@ I build scalable systems that turn raw data into intelligent actions. Currently 
 
 ---
 
-### GitHub Metrics
-![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callumongit-m&show_icons=true&theme=radical)
+### Engineering Focus
+* **AI Implementation:** Architecting RAG (Retrieval-Augmented Generation) pipelines and integrating LLMs into existing data workflows.
+* **Data Systems:** Optimizing storage and retrieval patterns using **AWS S3** and Python-based processing engines.
+* **Scalable Full-Stack:** Building type-safe interfaces with **TypeScript/React** backed by high-performance **Python/Java** microservices.
 
 ---
 
-### 🔗 Let's Connect
-- **Deep Dive into my Journey:** [My Full "About Me" Portfolio](https://www.notion.so/callum-m/About-345e8b32307680ec913dc265e2c0367c?source=copy_link)
+### Deeper Dive
+*Currently my work mostly lives in private repositories. I’ve centralized my current project details, and personal mission here:*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_About_Me-black?style=for-the-badge&logo=notion)](https://www.notion.so/callum-m/About-345e8b32307680ec913dc265e2c0367c?source=copy_link)
+
+---
+
+### Let's Connect
 - **Professional Network:** [LinkedIn](https://www.linkedin.com/in/callum-mughal/)
