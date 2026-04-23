@@ -1,4 +1,4 @@
-# Hi, I'm Callum 👋 
+# Callum : 
 
 ### Full-Stack Engineer | AI & Data Systems
 I build scalable systems that turn raw data into intelligent actions. Currently bridging the gap between robust backend architecture and modern AI implementation.
