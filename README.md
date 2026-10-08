@@ -29,9 +29,9 @@ I build scalable systems that turn raw data into intelligent actions. Currently 
 ---
 
 ### Deeper Dive
-*Currently my work mostly lives in private repositories. I’ve centralized my current project details, and personal mission here:*
+*Currently my work mostly lives in private repositories. I've got a brief doc with more about me:*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_About_Me-black?style=for-the-badge&logo=notion)](https://www.notion.so/callum-m/About-345e8b32307680ec913dc265e2c0367c?source=copy_link)
+[![About Me](https://img.shields.io/badge/Portfolio-Visit_My_About_Me-black?style=for-the-badge&logo=notion)](https://www.notion.so/callum-m/About-345e8b32307680ec913dc265e2c0367c?source=copy_link)
 
 ---
 
